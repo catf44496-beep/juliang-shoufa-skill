@@ -1,0 +1,4 @@
+interface:
+  display_name: "买量广告创意与素材制作"
+  short_description: "从创意开发到分镜口播、素材提示词及低成本创新的买量制作流程"
+  default_prompt: "使用 $ua-ad-creative，为我的手游制作30秒买量广告，输出创意、分镜口播和视频提示词。"
